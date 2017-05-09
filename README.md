@@ -1,2 +1,0 @@
-# VirtualCorporation
-JSON
